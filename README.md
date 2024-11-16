@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working as SDET in the VLSI design center<br>Also I’m currently learning embedded systems and low level programming<br>
+SDET in the VLSI design center
 
 
 # Tech Stack:
